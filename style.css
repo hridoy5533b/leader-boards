@@ -1,0 +1,96 @@
+
+.navbar img{
+    width: 40px;
+   
+}
+
+.logo-5{
+    margin-top: 28px;
+}
+.brand-logo{
+    width: 70px;
+   
+}
+.mid-area{
+    width: 875px;
+    margin: 0 auto;
+}
+
+.logo-area{
+    width: 380px;
+    float: left;
+    margin-top: 20px;
+}
+
+.player img{
+   width: 56px;
+}
+
+.nav-link{
+    margin-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+   
+}
+
+.nav-link:hover{
+    color: chartreuse;
+    font-size: 28px;
+}
+.idea{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tp{
+    color: #0652DD;
+    font-size: 30px;
+    font-weight: bold;
+}
+.top-player{
+      background-color: whitesmoke;
+      margin-top: 35px;
+      border-radius: 10px;
+} 
+
+
+main{
+    max-width: 870px;
+}
+
+.line{
+    width: 807px;
+    height: 0px;
+    border: 1px solid #d1d1d1;
+    margin-left: 16px;
+}
+
+.top-bloge img{
+    width: 177px;
+    height: 117px;
+}
+
+.bl{
+    font-size: 20px;
+    font-weight: bold;
+}
+.bl-p{
+    font-size: 15px;
+    color: #7655FF;
+}
+.by{
+    color: gray;
+
+}
+
+.up{
+    width: 250px;
+    height: 180px;
+}
+
+.card-deck{
+    margin-bottom: 25px;
+}
